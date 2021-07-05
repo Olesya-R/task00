@@ -1,0 +1,102 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 100%;
+ 
+}
+
+ul { padding-inline-start: 0; 
+}
+
+h1{
+    font-size: 15px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container{
+    margin: 0 auto;
+	max-width: 642px;
+}
+
+.header{
+    width: 642px;
+    height: 116px;
+    background-color: #000000;
+    padding-top: 9px;
+  
+}
+
+.header-item1{
+    margin-left: 9px;
+    float: left;
+}
+
+.header-logo{
+   margin-left: 139px;
+   float: left;
+}
+
+.header-item2{
+    margin-left: 590px;
+}
+
+
+.sidebar{
+    margin-left: 23px;
+    margin-top: 39px;
+    width: 136px;
+    height: 207px;
+    float: left;
+    padding-left: 5px;
+
+}
+.content{
+    margin: 39px 185px 32px;
+    width: 396px;
+    height: 383px;
+    border-left: 2px dotted black;
+    padding: 10px;
+    padding-top: 0px;
+
+}
+.content p{
+    font-size: 11px;
+    line-height: 1.5;
+}
+
+.footer{
+ width: 642px;
+ height: 125px;
+ background-color: #000000;
+}
+
+.footer-logo{
+    margin-top: 17px; 
+    margin-right: 37px;
+    float:right;
+}
+
+.footer-text{
+margin-top: 61px;
+margin-left: 28px;
+color: white;
+font-size: 9px;
+float: left;
+}
+
+.navigation-list a{
+    color: #000000;
+	font-weight: bold;
+	text-align: left;
+	font-size: 11px;
+}
+
+.navigation-list li a:hover {
+	color: red;
+}
+
+.navigation-list li:hover {
+	color: red;
+}

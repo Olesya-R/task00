@@ -1,0 +1,123 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	font: 20px Times, serif;
+}
+
+.box-1 {
+	margin-top: 5%;
+	width: 60%;
+	height: 100px;
+	background: rgb(196, 20, 20);
+	margin-left: 5%;
+}
+
+.box-2 {
+	width: 60%;
+	height: 100px;
+	background: rgb(34, 9, 173);
+	margin-left: 5%;
+}
+
+.box-3 {
+	width: 60%;
+	height: 100px;
+	background-color: rgb(8, 126, 37);
+    margin-left: 5%;
+}
+
+
+.box-4 {
+	margin-top: 5%;
+	width: 20%;
+	height: 100px;
+	background-color: rgb(196, 20, 20);
+    margin-left: 5%;
+	display: inline-block;
+}
+
+.box-5 {
+	margin-top: 5%;
+	width: 20%;
+	height: 100px;
+	background-color: rgb(34, 9, 173);
+	display: inline-block;
+	margin-left: -.28em;
+	
+}
+
+.box-6 {
+	margin-top: 5%;
+	width: 20%;
+	height: 100px;
+	background-color: rgb(8, 126, 37);
+	display: inline-block;
+	margin-left: -.28em;
+	   
+}
+.box-7 {
+	width: 60%;
+	height: 100px;
+	background-color: rgb(209, 223, 24);
+    margin-left: 5%;
+	margin-top: -.28em;
+	
+}
+
+.box-8 {
+	width: 30%;
+	height: 100px;
+	background-color: rgb(105, 105, 102);
+    margin-left: 5%;
+	display: inline-block;
+	
+}
+
+.box-9 {
+	width: 30%;
+	height: 100px;
+	background-color: rgb(37, 37, 36);
+	display: inline-block;
+	margin-left: -.28em;
+}
+
+.box-10 {
+	margin: 5% 0 30% 5%;
+	width: 80%;
+	height: 200px;
+	background-color: rgb(114, 228, 104);
+
+}
+
+.box-11 {
+	width: 20%;
+	height: 100px;
+	background-color: rgb(196, 20, 20);
+    margin: 5%;
+	float: left;
+}
+
+.box-12 {
+	width: 20%;
+	height: 100px;
+	background-color: rgb(34, 9, 173);
+    margin: 5%;
+	float: left;
+}
+
+.box-13 {
+	width: 20%;
+	height: 100px;
+	background-color: rgb(8, 126, 37);
+    margin-top: 5%;
+	margin-left: 5%;
+	float: left;
+}
+
+.text {
+	margin-left: 5px;
+	margin-top: 5px;
+}
